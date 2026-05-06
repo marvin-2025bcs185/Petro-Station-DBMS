@@ -1,31 +1,9 @@
--- Petro Station DBMS Business Case
--- MySQL schema for Group 5 Oil & Gas project
+-- MySQL schema for Group 5 Oil & Gas project | Petro Station DBMS
 
 CREATE DATABASE IF NOT EXISTS petrostation_dbms;
 USE petrostation_dbms;
 
 SET FOREIGN_KEY_CHECKS = 0;
-
-DROP TABLE IF EXISTS maintenance_log;
-DROP TABLE IF EXISTS asset;
-DROP TABLE IF EXISTS invoice;
-DROP TABLE IF EXISTS delivery;
-DROP TABLE IF EXISTS purchase_order;
-DROP TABLE IF EXISTS supplier;
-DROP TABLE IF EXISTS sale_transaction;
-DROP TABLE IF EXISTS fleet_account;
-DROP TABLE IF EXISTS customer;
-DROP TABLE IF EXISTS leave_request;
-DROP TABLE IF EXISTS payroll;
-DROP TABLE IF EXISTS attendance;
-DROP TABLE IF EXISTS shift_assignment;
-DROP TABLE IF EXISTS employee;
-DROP TABLE IF EXISTS shift;
-DROP TABLE IF EXISTS pump;
-DROP TABLE IF EXISTS tank;
-DROP TABLE IF EXISTS fuel_type;
-DROP TABLE IF EXISTS user_account;
-DROP TABLE IF EXISTS user_role;
 
 SET FOREIGN_KEY_CHECKS = 1;
 
