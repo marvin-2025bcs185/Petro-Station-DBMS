@@ -1,0 +1,39 @@
+# Local database configuration
+webapp/config.local.php
+
+# Generated working files
+scratch/
+output/
+src/
+
+# Extra drafts/reference files not listed as GitHub deliverables
+Database-Project-2026.pdf
+Petro_Station_DBMS.pptx
+PetroStation_DBMS_BusinessCase_v2.*
+PetroStation_DBMS_Project_Report.*
+PetroStation_DBMS_Final_Report.docx
+PetroStation_ER_Diagram.docx
+PetroStation_ER_Diagram.md
+PetroStation_ER_Diagram.mermaid
+PetroStation_ER_Diagram.svg
+
+# Office temporary/lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Dependency folders, if added later
+node_modules/
+vendor/
