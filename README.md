@@ -1,6 +1,6 @@
 # PetroStation DBMS
 
-PetroStation DBMS is a web-based database management system for petrol station operations. It was developed for a Database Systems project by **Group 5 | Oil & Gas**.
+PetroStation DBMS is a web-based database management system for petrol station operations. It was developed for a Database Systems project by ** WASENDA BLASIO MARVIN | Group 5 | Oil & Gas**.
 
 The system centralizes fuel sales, inventory, customers, fleet accounts, suppliers, procurement, HR, equipment maintenance, reporting, and risk review in one role-based application.
 
